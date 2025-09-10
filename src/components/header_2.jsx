@@ -59,7 +59,7 @@ const Header = () => {
             className="-m-1.5 p-1.5"
           >
             <span className="text-xl font-bold text-indigo-600 hover:scale-110 transition-transform duration-300">
-              Coulibaly Abdoul
+              Tio Yann
             </span>
           </button>
         </div>

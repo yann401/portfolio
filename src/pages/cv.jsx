@@ -14,13 +14,13 @@ const CV = () => {
   
   const personalInfo = {
     name: "Tio Yann",
-    title: " Recherche de Stage en réseau et sécurité (5 mois)",
-    period: "Novembre à Mars",
+    title: " Recherche d'une Alternance en réseau et sécurité (12 mois)",
+    period: "Septembre 2026",
     email: "yann-adam-doun.tio@efrei.net",
     phone: "07 59 52 07 07",
     location: "Cachan, France",
     linkedin: "linkedin.com/in/yann-tio-1b0a05329",
-    profile: "Étudiant en cybersécurité et membre actif du CTFREI, je développe en parallèle de mes études des business en ligne automatisés grâce à l’IA. À la recherche d’un stage dès novembre 2025, je veux allier mes compétences techniques et mon esprit entrepreneurial pour apporter des solutions innovantes"
+    profile: "Étudiant en cybersécurité et membre actif du CTFREI, je développe en parallèle de mes études des business en ligne automatisés grâce à l’IA. À la recherche d’une alternance dès septembre 2026, je veux allier mes compétences techniques et mon esprit entrepreneurial pour apporter des solutions innovantes"
   };
 
   const handleDownload = () => {

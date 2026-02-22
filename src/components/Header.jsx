@@ -129,7 +129,7 @@ const Header = () => {
               <p className={`mt-6 text-lg leading-8 text-gray-600 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'} transition-all duration-1000 delay-500`}>
                 Étudiant en ingénierie informatique, passionné par les systèmes réseau et la cybersécurité. 
                 Je suis à la recherche d’une alternance de 12 mois à partir de septembre
-                dans ce domaine afin de mettre en pratique mes compétences en administration réseau, sécurité des systèmes et analyse des vulnérabilités. Curieux et rigoureux, je conçois des solutions sécurisées en m’appuyant sur des outils tels que Wireshark, Kali Linux, Nmap, Metasploit ou encore pfSense, tout en consolidant ma maîtrise des environnements Linux et des protocoles réseau.
+                dans ce domaine afin de mettre en pratique mes compétences en administration réseau, sécurité des systèmes et analyse des vulnérabilités. Curieux et rigoureux, je conçois des solutions sécurisées en m’appuyant sur des outils tels que Wireshark, Kali Linux, Nmap, Metasploit ou encore PfSense, tout en consolidant ma maîtrise des environnements Linux et des protocoles réseau.
               </p>
               <div className={`mt-10 flex flex-col sm:flex-row gap-4 justify-center lg:justify-start ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'} transition-all duration-1000 delay-700`}>
                 <Link

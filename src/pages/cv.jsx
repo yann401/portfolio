@@ -1,6 +1,6 @@
 import Header from '../components/header_2';
 import Footer from '../components/footer';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 import cv from '../assets/cv/cv.pdf';
 
 
@@ -9,7 +9,8 @@ import React, { useState } from 'react';
 import { Mail, Github, Linkedin, ExternalLink, Award, Book, Code, Languages, Heart, Download } from 'lucide-react';
 
 const CV = () => {
-  const [downloading, setDownloading] = useState(false);
+  // const [downloading, setDownloading] = useState(false);
+  const [downloading, ] = useState(false);
   
   
   const personalInfo = {
